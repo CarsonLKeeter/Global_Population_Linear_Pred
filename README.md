@@ -1,5 +1,5 @@
 # Global_Population_Linear_Pred
-A basic linear estimation of global population until 2050. (Spoiler alert: it's getting crowded up in here)
+A basic linear estimation of global population until 2050 using "gapminder" data. (Spoiler alert: it's getting crowded up in here)
 
 Packages you'll need:
 library(ggplot2)
